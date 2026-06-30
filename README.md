@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u7079256&hide=HTML" alt="https://github.com/anuraghazra/github-readme-stats" />
-
 <h1> Yiran Wang </h1>
 
 <!--
