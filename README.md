@@ -10,6 +10,26 @@
 
 <h3> Selected Publications </h3>
 
+> **LinStereo: Linear-Complexity Global Attention for Multi-Scale Iterative Stereo Matching**<br>
+> [**Yiran Wang**](https://github.com/u7079256), Oliver Turner, Viorela Ila<br>
+> _**ECCV 2026**_<br>
+> [![Website](https://img.shields.io/badge/Website-Project-fedcba?style=flat-square)](https://u7079256.github.io/LinStereo/) [![arXiv](https://img.shields.io/badge/arXiv-2606.25437-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.25437) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/u7079256/LinStereo)<br>
+
+> **StereoAdapter: Adapting Stereo Depth Estimation to Underwater Scenes**<br>
+> Zhengri Wu<sup>\*</sup>, [**Yiran Wang**](https://github.com/u7079256)<sup>\*</sup>, Yu Wen<sup>\*</sup>, [Zeyu Zhang](https://steve-zeyu-zhang.github.io)<sup>\*</sup>, Biao Wu, Hao Tang<br>
+> _**ICRA 2026**_<br>
+> [![Website](https://img.shields.io/badge/Website-Project-fedcba?style=flat-square)](https://aigeeksgroup.github.io/StereoAdapter/) [![arXiv](https://img.shields.io/badge/arXiv-2509.16415-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.16415) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/AIGeeksGroup/StereoAdapter)<br>
+
+> **PaperJury: Due-Process Review for Bounded LaTeX Revision**<br>
+> [**Yiran Wang**](https://github.com/u7079256), Ruixuan An, Biao Wu, Wenhao Wang<br>
+> _**arXiv 2026**_<br>
+> [![Website](https://img.shields.io/badge/Website-Project-fedcba?style=flat-square)](https://u7079256.github.io/paperjury/overview.html?lang=zh) [![arXiv](https://img.shields.io/badge/arXiv-2606.16322-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.16322) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/u7079256/paperjury)<br>
+
+> **FlashMo: Geometric Interpolants and Frequency-Aware Sparsity for Scalable Efficient Motion Generation**<br>
+> [Zeyu Zhang](https://steve-zeyu-zhang.github.io)<sup>\*</sup>, [**Yiran Wang**](https://github.com/u7079256)<sup>\*</sup>, Danning Li<sup>\*</sup>, Dong Gong, Ian Reid, Richard Hartley<br>
+> _**NeurIPS 2025**_<br>
+> [![Website](https://img.shields.io/badge/Website-Project-fedcba?style=flat-square)](https://steve-zeyu-zhang.github.io/FlashMo/) [![Paper](https://img.shields.io/badge/Paper-OpenReview-eeeeee?style=flat-square)](https://openreview.net/pdf/ae5d92318295aa49f1b14880d5b42a5f65f431f0.pdf)<br>
+
 > **Motion Avatar: Generate Human and Animal Avatars with Arbitrary Motion**<br>
 > [**Zeyu Zhang**](https://steve-zeyu-zhang.github.io)<sup>\*</sup>, [Yiran Wang](https://github.com/u7079256)<sup>\*</sup>, [Biao Wu](https://scholar.google.com/citations?user=Y3SBBWMAAAAJ&hl=en)<sup>\*</sup>, [Shuo Chen](https://www.linkedin.com/in/shuo-chen-7747a7246/), [Zhiyuan Zhang](https://github.com/Tiooo111), [Shiya Huang](https://github.com/gekelly), [Wenbo Zhang](https://zwbx.github.io/), [Meng Fang](https://mengf1.github.io/), [Ling Chen](https://profiles.uts.edu.au/Ling.Chen), [Yang Zhao](https://yangyangkiki.github.io/)<sup>✉</sup><br>
 > _**Preprint**_<br>
